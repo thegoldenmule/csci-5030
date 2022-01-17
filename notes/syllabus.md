@@ -108,7 +108,9 @@ Class will meet at the following times and cover these rough topics.
 
 ### Academic Integrity 
 
-University policy may be found [here](https://www.slu.edu/provost/faculty-affairs/teaching-resources-for-faculty/course-syllabus-information/syllabus-statements/syllabus-stmt_academic-integrity.docx). In addition, students are expected to follow the [Honesty Policy of the College of Arts & Sciences](http://www.slu.edu/college-of-arts-and-sciences-home/undergraduate-education/academic-honesty).
+Academic integrity is honest, truthful and responsible conduct in all academic endeavors. The mission of Saint Louis University is “the pursuit of truth for the greater glory of God and for the service of humanity.” Accordingly, all acts of falsehood demean and compromise the corporate endeavors of teaching, research, health care, and community service through which SLU fulfills its mission. The University strives to prepare students for lives of personal and professional integrity, and therefore regards all breaches of academic integrity as matters of serious concern. The full University-level Academic Integrity Policy can be found on the [Provost's Office website](https://www.slu.edu/provost/policies/academic-and-course/policy_academic-integrity_6-26-2015.pdf).
+
+In addition, students are expected to follow the [Honesty Policy of the College of Arts & Sciences](http://www.slu.edu/college-of-arts-and-sciences-home/undergraduate-education/academic-honesty).
 
 For the purposes of this clas, we will be leaning heavily on Open Source Software, which must follow industry-standard licensing protocol:
 
@@ -118,8 +120,15 @@ For the purposes of this clas, we will be leaning heavily on Open Source Softwar
 
 ### Disability Accommodations
 
-The University policy can be found [here](https://www.slu.edu/provost/faculty-affairs/teaching-resources-for-faculty/course-syllabus-information/syllabus-statements/syllabus-stmt_disability-accommodations.docx).
+Students with a documented disability who wish to request academic accommodations must formally register their disability with the University. Once successfully registered, students also must notify their course instructor that they wish to use their approved accommodations in the course. 
+
+Please contact the Center for Accessibility and Disability Resources (CADR) to schedule an appointment to discuss accommodation requests and eligibility requirements. Most students on the St. Louis campus will contact CADR, located in the Student Success Center and available by email at [accessibility_disability@slu.edu](mailto:accessibility_disability@slu.edu) or by phone at 314.977.3484. Once approved, information about a student’s eligibility for academic accommodations will be shared with course instructors by email from CADR and within the instructor’s official course roster. Students who do not have a documented disability but who think they may have one also are encouraged to contact to CADR. Confidentiality will be observed in all inquiries.
+
 
 ### Title IX
 
-The University policy can be found [here](https://www.slu.edu/provost/faculty-affairs/teaching-resources-for-faculty/course-syllabus-information/syllabus-statements/syllabus-stmt-title-ix.docx).
+Saint Louis University and its faculty are committed to supporting our students and seeking an environment that is free of bias, discrimination, and harassment. If you have encountered any form of sexual harassment, including sexual assault, stalking, domestic or dating violence, we encourage you to report this to the University. If you speak with a faculty member about an incident that involves a Title IX matter, that faculty member must notify SLU’s Title IX Coordinator and share the basic facts of your experience. This is true even if you ask the faculty member not to disclose the incident. The Title IX Coordinator will then be available to assist you in understanding all of your options and in connecting you with all possible resources on and off campus.
+
+Anna Kratky is the Title IX Coordinator at Saint Louis University (DuBourg Hall, room 36; anna.kratky@slu.edu; 314-977-3886). If you wish to speak with a confidential source, you may contact the counselors at the University Counseling Center at 314-977-TALK or make an anonymous report through SLU’s Integrity Hotline by calling 1-877-525-5669 or [online](http://www.lighthouse-services.com/slu). To view SLU’s policies, and for resources, please visit the following web addresses: https://www.slu.edu/about/safety/sexual-assault-resources/index.php and https://www.slu.edu/general-counsel.
+
+IMPORTANT UPDATE: SLU’s Title IX Policy (formerly called the Sexual Misconduct Policy) has been significantly revised to adhere to a new federal law governing Title IX that was released on May 6, 2020. Please take a moment to review the new policy and information [here](https://www.slu.edu/about/safety/sexual-assault-resources/index.php). Please contact the Anna Kratky, the Title IX Coordinator, with any questions or concerns. 
