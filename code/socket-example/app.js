@@ -2,6 +2,7 @@ const express = require('express');
 const http = require('http');
 const app = express();
 
+console.log('Hello class.');
 
 const server = http.createServer(app);
 
