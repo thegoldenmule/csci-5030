@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "watch-test": "./node_modules/.bin/nodemon -x 'time ./node_modules/.bin/mocha'"
+  },
+  "dependencies": {
+    "mocha": "^9.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
